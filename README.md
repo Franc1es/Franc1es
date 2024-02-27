@@ -1,1 +1,14 @@
-I am francies, a Minecraft developer and pluginner, I will program custom plugins for your server and if necessary I will set up existing plugins. Go to my website for more info https://www.franciesdev.it
+# Java Developer |  Web Developer
+
+## Sito
+[🔗](https://franciesdev.it)
+
+## Spigot
+[🔗](https://www.spigotmc.org/members/arroghandi.1729387/)
+
+## Discord
+
+[🔗](https://discord.com/invite/cdXbepfwAj)
+
+[Francies](https://discord.com/users/912378209679601734)
+
