@@ -4,7 +4,7 @@
 [🔗](https://franciesdev.it)
 
 ## BuiltbyBit
-[🔗](https://builtbybit.com/members/francies.492319/))
+[🔗](https://builtbybit.com/members/francies.492319/)
 
 ## Spigot
 [🔗](https://www.spigotmc.org/members/arroghandi.1729387/)
