@@ -1,4 +1,5 @@
-![discord-12-09-2024](https://github.com/user-attachments/assets/85c0e14e-32eb-4b1e-830e-868a1d477619)# Java Developer |  Web Developer
+
+![Web-developer-12-09-2024](https://github.com/user-attachments/assets/f26ec18c-6586-4c9b-afa2-b2b66ec506be) ![Java-Developer-12-09-2024](https://github.com/user-attachments/assets/8f3cfe1a-5209-4cec-8b32-a1caf92e3c8f)
 
 [![SITO-12-09-2024](https://github.com/user-attachments/assets/6b949793-101b-418a-89a6-0776200939d7)](https://franciesdev.it)
 
