@@ -17,4 +17,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franc1es&hide_progress=false)
 
-![Franc1es's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franc1es&show_icons=true&theme=logo)
+![Franc1es's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franc1es&show_icons=true&theme=trasparent&hide=contribs,prs,issues)
