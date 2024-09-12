@@ -2,8 +2,7 @@
 
 [![SITO-12-09-2024](https://github.com/user-attachments/assets/6b949793-101b-418a-89a6-0776200939d7)](https://franciesdev.it)
 
-## BuiltbyBit
-[🔗](https://builtbybit.com/members/francies.492319/)
+[![image](https://github.com/user-attachments/assets/0ebaca88-a17a-4489-99b5-d0ef53f076ec)](https://builtbybit.com/members/francies.492319/)
 
 ## Spigot
 [🔗](https://www.spigotmc.org/members/arroghandi.1729387/)
