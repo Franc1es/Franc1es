@@ -16,3 +16,5 @@
 ![-12-09-2024](https://github.com/user-attachments/assets/550907f3-0090-453b-a80a-f3cd96945f72)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franc1es&hide_progress=false)
+
+![Francies's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
