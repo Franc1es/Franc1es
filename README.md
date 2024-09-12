@@ -15,4 +15,4 @@
 
 ![-12-09-2024](https://github.com/user-attachments/assets/550907f3-0090-453b-a80a-f3cd96945f72)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franc1es&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franc1es&hide_progress=false)
