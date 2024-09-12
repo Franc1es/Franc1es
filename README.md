@@ -3,11 +3,6 @@
 
 ![-12-09-2024](https://github.com/user-attachments/assets/550907f3-0090-453b-a80a-f3cd96945f72)
 
-
-
-
-
-
 [![SITO](https://github.com/user-attachments/assets/d3de9957-a578-425d-b895-896cbdb3d3bc)](https://franciesdev.it)
 
 [![image](https://github.com/user-attachments/assets/0ebaca88-a17a-4489-99b5-d0ef53f076ec)](https://builtbybit.com/members/francies.492319/)
@@ -18,3 +13,4 @@
 
 [![discord-12-09-2024](https://github.com/user-attachments/assets/7ccce348-213a-4b6d-8234-3eb8330d4ddd)](https://discord.com/users/912378209679601734)
 
+![-12-09-2024](https://github.com/user-attachments/assets/550907f3-0090-453b-a80a-f3cd96945f72)
