@@ -1,5 +1,6 @@
+![Web-developer-12-09-2024](https://github.com/user-attachments/assets/9847e0f7-b9cc-4771-93e4-cdc27bf257d4) ![Java-Developer-12-09-2024](https://github.com/user-attachments/assets/a03aa34d-0ac9-4b78-bc21-eb8bce003c4d)
 
-![Web-developer-12-09-2024](https://github.com/user-attachments/assets/f26ec18c-6586-4c9b-afa2-b2b66ec506be) ![Java-Developer-12-09-2024](https://github.com/user-attachments/assets/8f3cfe1a-5209-4cec-8b32-a1caf92e3c8f)
+
 
 [![SITO-12-09-2024](https://github.com/user-attachments/assets/6b949793-101b-418a-89a6-0776200939d7)](https://franciesdev.it)
 
