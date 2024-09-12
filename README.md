@@ -2,7 +2,7 @@
 
 
 
-[![SITO-12-09-2024](https://github.com/user-attachments/assets/6b949793-101b-418a-89a6-0776200939d7)](https://franciesdev.it)
+[![SITO](https://github.com/user-attachments/assets/ec08f868-040c-4b16-b41b-53fa24873340)](https://franciesdev.it)
 
 [![image](https://github.com/user-attachments/assets/0ebaca88-a17a-4489-99b5-d0ef53f076ec)](https://builtbybit.com/members/francies.492319/)
 
