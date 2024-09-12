@@ -1,4 +1,7 @@
-![Web-developer-12-09-2024](https://github.com/user-attachments/assets/9847e0f7-b9cc-4771-93e4-cdc27bf257d4) ![Java-Developer-12-09-2024](https://github.com/user-attachments/assets/a03aa34d-0ac9-4b78-bc21-eb8bce003c4d)
+
+![Web-developer-12-09-2024](https://github.com/user-attachments/assets/64b701a3-cd34-446e-bc5a-89ca3b9dded3)![Java-Developer-12-09-2024](https://github.com/user-attachments/assets/70efd192-b93d-4204-94cf-c6209eac4d8b)
+
+
 
 
 
