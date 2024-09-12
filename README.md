@@ -4,7 +4,7 @@
 
 [![image](https://github.com/user-attachments/assets/0ebaca88-a17a-4489-99b5-d0ef53f076ec)](https://builtbybit.com/members/francies.492319/)
 
-[![image](https://github.com/user-attachments/assets/35fc6202-b0ae-43a6-8451-af5345236750)](https://www.spigotmc.org/members/arroghandi.1729387/)
+[![Immagine 2024-09-12 215921](https://github.com/user-attachments/assets/94bb65ff-c844-44ab-a718-081ecc297ab9)](https://www.spigotmc.org/members/arroghandi.1729387/)
 
 ## Discord
 
