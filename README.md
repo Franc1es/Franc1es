@@ -8,5 +8,5 @@
 
 [![Francies-Developing-12-09-2024](https://github.com/user-attachments/assets/d87d9388-65dc-4afe-8edc-96af6fcc640a)](https://discord.com/invite/cdXbepfwAj)
 
-[![Uploading Francies-Developing-12-09-2024.png…]()](https://discord.com/users/912378209679601734)
+[![discord-12-09-2024](https://github.com/user-attachments/assets/7ccce348-213a-4b6d-8234-3eb8330d4ddd)](https://discord.com/users/912378209679601734)
 
