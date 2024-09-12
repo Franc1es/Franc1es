@@ -14,3 +14,5 @@
 [![discord-12-09-2024](https://github.com/user-attachments/assets/7ccce348-213a-4b6d-8234-3eb8330d4ddd)](https://discord.com/users/912378209679601734)
 
 ![-12-09-2024](https://github.com/user-attachments/assets/550907f3-0090-453b-a80a-f3cd96945f72)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franc1es&hide_progress=true)
