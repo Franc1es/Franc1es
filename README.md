@@ -1,6 +1,6 @@
 # Java Developer |  Web Developer
 
-[![SITO-12-09-2024](https://github.com/user-attachments/assets/c1ed1a23-0b30-428c-8e9d-e1c6d5f9173d)](https://franciesdev.it)
+[![SITO-12-09-2024](https://github.com/user-attachments/assets/6b949793-101b-418a-89a6-0776200939d7)](https://franciesdev.it)
 
 ## BuiltbyBit
 [🔗](https://builtbybit.com/members/francies.492319/)
