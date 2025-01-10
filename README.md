@@ -1,6 +1,3 @@
-![Java-Developer-12-09-2024](https://github.com/user-attachments/assets/aa1425ab-4166-4460-bb00-e4317f422ac8)
-![Web-developer-12-09-2024](https://github.com/user-attachments/assets/64b701a3-cd34-446e-bc5a-89ca3b9dded3)
-
 ![-12-09-2024](https://github.com/user-attachments/assets/550907f3-0090-453b-a80a-f3cd96945f72)
 
 [![SITO](https://github.com/user-attachments/assets/d3de9957-a578-425d-b895-896cbdb3d3bc)](https://francescoferrara.it/mc/index.php)
