@@ -14,6 +14,3 @@
 ![-12-09-2024](https://github.com/user-attachments/assets/550907f3-0090-453b-a80a-f3cd96945f72)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francies&label=Profile%20views&color=0e75b6&style=flat" alt="francies" /> </p>
-
-![Stato Analisi](https://img.shields.io/badge/Task1-100%25-brightgreen)
-![Stato Back-End](https://img.shields.io/badge/Task2-60%25-yellow)
