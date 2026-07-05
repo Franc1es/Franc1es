@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hi 👋, I'm Francesco</h1>
 
 <h3 align="center">
@@ -27,7 +27,7 @@ Building modern web applications, backend services and self-hosted infrastructur
 
 # 💫 About Me
 
-```cpp
+
 class Francesco {
 public:
     string role = "Full Stack Developer";
@@ -37,7 +37,7 @@ public:
     string devops = "Docker • Linux • VPS";
     string learning = "Cloud • DevOps • System Design";
 };
-```
+
 
 - 💻 Full Stack Developer
 - ⚛️ Building web applications with React
@@ -178,4 +178,4 @@ Full Stack website developed with:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
-````
+
