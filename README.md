@@ -81,13 +81,11 @@ Junior Full Stack Developer & ICT System Developer with a strong technical backg
 
 ## 📊 GitHub Stats
 
-<p align="center">
   [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Franc1es=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-</p>
 
-<p align="center">
+
   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?Franc1es=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-</p>
+
 
 # 🔥 GitHub Streak
 
