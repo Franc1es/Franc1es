@@ -151,30 +151,6 @@ public:
 
 ---
 
-# 📌 Featured Project
-
-### 🏰 Nobile Contrada Fiorenza
-
-Full Stack website developed with:
-
-- React
-- Node.js
-- Express
-- MySQL
-- Docker
-- JWT Authentication
-- Admin Dashboard
-- REST API
-- VPS Deployment
-
----
-
-# 💻 Quote
-
-> "First, solve the problem. Then, write the code." — John Johnson
-
----
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
