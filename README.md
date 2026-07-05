@@ -6,10 +6,6 @@ Full Stack Developer • IT/ICT Developer • DevOps Learner
 </h3>
 
 <p align="center">
-Building modern web applications, backend services and self-hosted infrastructures.
-</p>
-
-<p align="center">
 <a href="https://github.com/Franc1es">
 <img src="https://komarev.com/ghpvc/?username=Franc1es&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
