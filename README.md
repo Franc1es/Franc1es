@@ -28,15 +28,7 @@ Building modern web applications, backend services and self-hosted infrastructur
 # 💫 About Me
 
 
-class Francesco {
-public:
-    string role = "Full Stack Developer";
-    string backend = "Node.js • Express";
-    string frontend = "React";
-    string databases = "MySQL • MariaDB • MongoDB";
-    string devops = "Docker • Linux • VPS";
-    string learning = "Cloud • DevOps • System Design";
-};
+Junior Full Stack Developer & ICT System Developer with a strong technical background in Computer Science. Passionate about building modern web applications, designing scalable backend systems, and deploying solutions on Linux infrastructures. Experienced with React, TypeScript, Node.js, Deno, REST APIs, PostgreSQL/MySQL, and continuously expanding my knowledge in DevOps, cloud technologies, web architecture, and AI-powered automation.
 
 
 - 💻 Full Stack Developer
