@@ -82,7 +82,7 @@ Junior Full Stack Developer & ICT System Developer with a strong technical backg
 ## 📊 GitHub Stats
 
   [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Franc1es)](https://github.com/stats-organization/github-stats-extended)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Franc1es&repo=HorrorMinecraft&theme=github_dark&show_owner=false&show_icons=true&description_lines_count=3&card_width=500)](https://github.com/Franc1es/nobilecontradafiorenza)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Franc1es&repo=HorrorMinecraft&theme=github_dark&show_owner=false&show_icons=true&description_lines_count=3&card_width=500)](https://github.com/Franc1es/HorrorMinecraft)
 
 # 🔥 GitHub Streak
 
