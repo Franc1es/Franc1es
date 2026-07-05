@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
 
 <h3 align="center">
-Full Stack Developer • Linux Enthusiast • DevOps Learner
+Full Stack Developer • IT/ICT Developer • DevOps Learner
 </h3>
 
 <p align="center">
