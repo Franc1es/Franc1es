@@ -82,11 +82,11 @@ Junior Full Stack Developer & ICT System Developer with a strong technical backg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Franc1es&show_icons=true&theme=github_dark&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Franc1es=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Franc1es&layout=compact&theme=github_dark&hide_border=true" />
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?Franc1es=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 # 🔥 GitHub Streak
