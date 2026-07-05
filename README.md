@@ -79,6 +79,16 @@ Junior Full Stack Developer & ICT System Developer with a strong technical backg
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Franc1es&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franc1es&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
 # 🔥 GitHub Streak
 
 <p align="center">
