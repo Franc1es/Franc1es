@@ -90,13 +90,6 @@ Junior Full Stack Developer & ICT System Developer with a strong technical backg
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franc1es&theme=github-dark&hide_border=true"/>
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Franc1es&theme=github-compact&hide_border=true"/>
-</p>
 
 ---
 
