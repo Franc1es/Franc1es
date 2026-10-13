@@ -81,7 +81,7 @@ Junior Full Stack Developer & ICT System Developer with a strong technical backg
 
 ## 📊 Horror Minecraft (server)
 
-username=Franc1es&repo=HorrorMinecraft&theme=github_dark&show_owner=false&show_icons=true&description_lines_count=3&card_width=500)](https://github.com/Franc1es/HorrorMinecraft)
+[(username=Franc1es&repo=HorrorMinecraft&theme=github_dark&show_owner=false&show_icons=true&description_lines_count=3&card_width=500)](https://github.com/Franc1es/HorrorMinecraft)
 
 # 🔥 GitHub Streak
 
