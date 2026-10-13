@@ -74,7 +74,7 @@ Junior Full Stack Developer & ICT System Developer with a strong technical backg
 ## Mobile
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter" />
 </p>
 
 ---
