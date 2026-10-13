@@ -94,20 +94,6 @@ Junior Full Stack Developer & ICT System Developer with a strong technical backg
 ---
 
 
-# ⚡ Current Focus
-
-- ⚛️ React
-- 🟢 Node.js
-- 🚀 Express
-- 🐳 Docker
-- 🐧 Linux
-- ☁️ VPS Deployment
-- 🔐 Authentication
-- 🌍 REST APIs
-- 🗄️ Database Design
-
----
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
